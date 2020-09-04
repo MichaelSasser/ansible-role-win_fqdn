@@ -1,0 +1,20 @@
+---
+
+dependencies: []
+
+galaxy_info:
+  author: Michael Sasser
+  description: Set the fqdn of the host to the fqdn from the ansible inventory file
+  company: MichaelSasser.org
+  issue_tracker_url: https://github.com/MichaelSasser/ansible-role-win-fqdn/issues
+  license: GPL-3.0-only
+  min_ansible_version: 2.9
+  github_branch: https://github.com/MichaelSasser/ansible-role-win-fqdn
+  platforms:
+    - name: Windows
+      versions:
+        - all
+
+  galaxy_tags:
+    - fqdn
+    - windows
